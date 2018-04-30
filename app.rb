@@ -17,5 +17,5 @@ get '/another_route' do
 end
 
 get '/cat' do
-  '<img style="border: dashed red", src="http://bit.ly/1eze8aE">'
+  '<img style="border: dashed red", src="http://bit.ly/1eze8aE" />'
 end
