@@ -4,6 +4,6 @@ get '/' do
   'Hello world!'
 end
 
-get '/something' do
-  'Something else'
+get '/secret' do
+  "It's a poo."
 end
